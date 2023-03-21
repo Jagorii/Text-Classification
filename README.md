@@ -1,2 +1,2 @@
 # Text-Classification
-Here, I use BERT to classify text.
+Here, I use distillBERT to classify text.
